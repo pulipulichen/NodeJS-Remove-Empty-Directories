@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-remove-empty-directories",
+  "version": "1.0.0",
+  "description": "Command line tool to remove empty directories.",
+  "main": "remove-empty-directories.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node remove-empty-directories.js /home/pudding/[0.shortcut/MicroSD/NetBeansProjects/[nodejs]/NodeJS-Remove-Empty-Directories/[test/20210713_1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pulipuli.chen%40gmail.com@github.com/pulipulichen/NodeJS-Remove-Empty-Directories.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pulipulichen/NodeJS-Remove-Empty-Directories/issues"
+  },
+  "homepage": "https://github.com/pulipulichen/NodeJS-Remove-Empty-Directories#readme",
+  "dependencies": {
+    "trash": "^7.2.0"
+  }
+}
